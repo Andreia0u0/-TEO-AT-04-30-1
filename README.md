@@ -10,6 +10,5 @@ Nesse primeiro exemplo o nome da pessoa é inserido junto com o horario de entra
 Quando não inserido o nome é dado como nulo e as horas como zero.
 ![image](https://github.com/Andreia0u0/-TEO-AT-04-30-1/assets/155964265/0744fd8d-7e4e-4ff4-82f5-e06112d275ab)
 
-Assim, a parte grafica no Scene Builder fica
 
 ![image](https://github.com/Andreia0u0/-TEO-AT-04-30-1/assets/155964265/b91bf041-6be2-4e1f-897d-e85b31998b27)
