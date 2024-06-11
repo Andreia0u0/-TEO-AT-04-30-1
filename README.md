@@ -1,6 +1,7 @@
 # -TEO-AT-04-30-1
 Resolvi fazer a o calculo do tempo de uma pessoa na empresa que parte da ideia do projeto de reconhecimento de cracha do meu grupo.
-![image](https://github.com/Andreia0u0/-TEO-AT-04-30-1/assets/155964265/97e1d1bb-96bc-4771-8e89-8b70bca00311)
+![image](https://github.com/Andreia0u0/-TEO-AT-04-30-1/assets/155964265/6c76b362-7a18-402b-93d9-99d34d296e9d)
+
 ![image](https://github.com/Andreia0u0/-TEO-AT-04-30-1/assets/155964265/b91bf041-6be2-4e1f-897d-e85b31998b27)
 
 Nesse primeiro exemplo o nome da pessoa é inserido junto com o horario de entrada e saida na empresa e assim é feito o calculo.
