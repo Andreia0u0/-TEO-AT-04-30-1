@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CRACHA
+comment1.params=
+comment1.target=CRACHA()
+comment2.params=nome\ hr1\ min1\ hr2\ min2
+comment2.target=CRACHA(java.lang.String,\ double,\ double,\ double,\ double)
+comment3.params=
+comment3.target=double\ calcular()
+comment4.params=
+comment4.target=java.lang.String\ interpretar()
+numComments=5
