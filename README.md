@@ -10,7 +10,4 @@ Nesse primeiro exemplo o nome da pessoa é inserido junto com o horario de entra
 ![image](https://github.com/Andreia0u0/-TEO-AT-04-30-1/assets/155964265/0d6182fb-1181-4043-a7a4-3f1c17f7f8b4)
 
 Quando não inserido o nome é dado como nulo e as horas como zero.
-![image](https://github.com/Andreia0u0/-TEO-AT-04-30-1/assets/155964265/0744fd8d-7e4e-4ff4-82f5-e06112d275ab)
-
-
-
+![image](https://github.com/Andreia0u0/-TEO-AT-04-30-1/assets/155964265/ffa46e1d-65c8-485c-8799-0b1cfba70e6c)
